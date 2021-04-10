@@ -1,2 +1,3 @@
-# GIS Course UCSC
-Repository created for the GIS workshop UCSC March 2021
+# Análisis de datos del Taller de Modelos de Nicho Ecológico - UCSC
+
+## Paso 1
